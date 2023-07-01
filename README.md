@@ -14,5 +14,5 @@
 </ul>
 
 <h2>Walk-through:</h2>
-<p><b>Nmap switches:</b> I learnt how to access the nmap help/manual page for the different switches and their uses.</p> 
-<img src=""> 
+<p><b>Nmap switches:</b> I learnt how to access the nmap help/manual page for different switches and use them accordingly.</p> 
+<img src="https://github.com/inezchong7/Nmap/assets/106855786/9a82d5ab-1c97-4d0a-85ab-1eae50a131ef"> 
